@@ -1,1 +1,1 @@
-### A Calculator I have built using Java..
+### A Calculator I have built using Java.
